@@ -69,3 +69,29 @@ body {
   white-space: nowrap;
   line-height: 60px; /* Vertically center the text there */
 }
+.square {
+    float: left;
+    position: relative;
+    width: 50px;
+    padding-bottom: 50px; /* = width for a 1:1 aspect ratio */
+    margin: 1.66%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /
+}
+#red {
+    background: red;
+}
+#orange {
+    background: orange;
+}
+#blue {
+    background: blue;
+}
+#yellow {
+    background: yellow;
+}
+#pink{
+    background: pink;
+}
