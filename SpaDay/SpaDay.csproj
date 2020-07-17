@@ -8,5 +8,9 @@
 
   <ItemGroup>
     <Folder Include="Views\Spa\" />
+    <Folder Include="Views\User\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="Views\User\Add.json" />
   </ItemGroup>
 </Project>
